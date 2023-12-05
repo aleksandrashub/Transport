@@ -1,0 +1,23 @@
+D:\avtoNew\bin\Debug\avtoNew.exe.config
+D:\avtoNew\bin\Debug\avtoNew.exe
+D:\avtoNew\bin\Debug\avtoNew.pdb
+D:\avtoNew\obj\Debug\avtoNew.csproj.AssemblyReference.cache
+D:\avtoNew\obj\Debug\avtoNew.csproj.SuggestedBindingRedirects.cache
+D:\avtoNew\obj\Debug\avtoNew.csproj.CoreCompileInputs.cache
+D:\avtoNew\obj\Debug\avtoNew.exe
+D:\avtoNew\obj\Debug\avtoNew.pdb
+C:\Users\HP\OneDrive\Рабочий стол\avtoNew\bin\Debug\avtoNew.exe.config
+C:\Users\HP\OneDrive\Рабочий стол\avtoNew\bin\Debug\avtoNew.exe
+C:\Users\HP\OneDrive\Рабочий стол\avtoNew\bin\Debug\avtoNew.pdb
+C:\Users\HP\OneDrive\Рабочий стол\avtoNew\obj\Debug\avtoNew.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\avtoNew\obj\Debug\avtoNew.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Рабочий стол\avtoNew\obj\Debug\avtoNew.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\avtoNew\obj\Debug\avtoNew.exe
+C:\Users\HP\OneDrive\Рабочий стол\avtoNew\obj\Debug\avtoNew.pdb
+E:\avtoNew\bin\Debug\avtoNew.exe.config
+E:\avtoNew\bin\Debug\avtoNew.exe
+E:\avtoNew\bin\Debug\avtoNew.pdb
+E:\avtoNew\obj\Debug\avtoNew.csproj.AssemblyReference.cache
+E:\avtoNew\obj\Debug\avtoNew.csproj.CoreCompileInputs.cache
+E:\avtoNew\obj\Debug\avtoNew.exe
+E:\avtoNew\obj\Debug\avtoNew.pdb
